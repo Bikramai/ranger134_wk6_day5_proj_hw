@@ -1,0 +1,4 @@
+myshop_env
+.env 
+migrations
+__pycache__
